@@ -402,7 +402,6 @@ layer_height,infill_density,infill_pattern,nozzle_temperature,print_speed,materi
 0.2,100,,210,50,pla,9
 0.2,100,,210,50,pla,9
 0.2,100,,210,50,pla,4
-0.3,100,,210,50,pla,-
 0.1,100,,210,50,pla,1
 0.2,100,,210,50,pla,3
 0.3,100,,210,50,pla,8
