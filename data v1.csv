@@ -550,7 +550,7 @@ layer_height,infill_density,infill_pattern,nozzle_temperature,print_speed,materi
 0.05,,grid,195,30,pla,8
 0.25,,grid,195,30,pla,18
 0.05,,grid,205,30,pla,5
-0.25,,grid,205,30,pla,18826
+0.25,,grid,205,30,pla,18.826
 0.05,,grid,195,50,pla,4
 0.25,,grid,195,50,pla,17
 0.05,,grid,205,50,pla,7
@@ -562,7 +562,7 @@ layer_height,infill_density,infill_pattern,nozzle_temperature,print_speed,materi
 0.05,,grid,195,50,pla,5
 0.25,,grid,195,50,pla,13
 0.05,,grid,205,50,pla,6
-0.25,,grid,205,50,pla,13149
+0.25,,grid,205,50,pla,13.149
 0.15,,grid,200,40,pla,8
 0.25,,grid,190,70,pla,17
 0.15,,grid,220,30,pla,11
